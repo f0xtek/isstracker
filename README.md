@@ -1,8 +1,10 @@
 # ISS Tracker
 
-A simple react app that tracks the International Space Station across the globe. Uses data from the [International Space Station API](http://open-notify.org/Open-Notify-API/ISS-Location-Now/).
+A simple react app that tracks the International Space Station across the globe. Uses data from the [Where The ISS At API](https://wheretheiss.at/).
 
 ## Available Scripts
+
+To build this project, you will need a [Google Maps API Key](https://developers.google.com/maps/documentation/javascript/get-api-key). Once obtained, put it in [App.js](./src/App.js) at the bottom of the file.
 
 In the project directory, you can run:
 

@@ -18,11 +18,6 @@ const getSatelliteData = async () => {
   } catch(error) { console.error(error) };
 };
 
-// const satelliteId = getSatelliteId();
-// const issData = getSatelliteData(satelliteId)
-// const lng = issData.longitude;
-// const lat = issData.latitude;
-
 const mapStyles = {
   width: '100%',
   height: '100%',
